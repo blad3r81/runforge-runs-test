@@ -5,6 +5,8 @@
 ## Запуск
 
 ```bash
+git clone https://github.com/blad3r81/runforge-runs-test.git
+cd runforge-runs-test
 npm install
 npm run dev
 ```
